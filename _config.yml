@@ -24,7 +24,7 @@ search: true
 
 author:
   name   : "Daniel Stoertz"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-pic.jpg"
   bio    : "TBD"
   links:
     - label: "✉ Email"
